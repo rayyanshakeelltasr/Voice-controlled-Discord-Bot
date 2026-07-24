@@ -1,0 +1,7 @@
+{
+    "MY_USER_ID" : 0,
+    "MY_SERVER_ID" : 0,
+    "WAKE_WORD" : "",
+    "VOSK_MODEL_PATH" : "",
+    "SAMPLE_RATE" : 16000
+}

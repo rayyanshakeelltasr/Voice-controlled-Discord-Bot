@@ -1,0 +1,8 @@
+# Dependency
+Vosk Models/
+
+# Environment Variables
+.env
+
+# Optimizations
+__pycache__/
