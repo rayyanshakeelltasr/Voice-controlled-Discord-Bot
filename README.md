@@ -8,6 +8,9 @@ Email me or just message me on discord. Both should be on the github profile.
 
 <h1>MANUAL</h1>
 
+You're going to need python and all the necessary dependancies, i suggests the latest python. 
+After all that, you add required data in the config.json file and run the main python file to use the bot!
+
 The list of commands it can do are kick, deaf, mute, and list, and you choose your target by indexing the user list, 
 i couldn't think of a better way which was I could implement. 
 
